@@ -71,3 +71,27 @@ button:hover{
 	 background-color: white;
 	 color: #223673;
 }
+
+#next{
+      width: auto;
+      margin: 5% auto;
+}
+
+#OptionNext{
+             width: 20%;
+	     margin: auto;
+	     display: block;
+}
+
+#score{
+
+	 display: block;
+         width: 40%;
+	 padding: 10px 10px;
+	 margin: 10% auto;
+	 border: 1px solid white;
+	 border-radius: 10px;
+	 text-align: center;
+	 background-color: white;
+	 color: #223673;
+}
